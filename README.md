@@ -23,7 +23,7 @@ Getting started with NeMo
 
 * They have extensive [tutorials](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/starthere/tutorials.html) that can be run on [Google Colab](https://colab.research.google.com).
 
-NeMo Github repositories
+NeMo Github Repositories
 ------------
 https://github.com/NVIDIA/NeMo/tree/main
 
