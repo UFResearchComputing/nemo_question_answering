@@ -25,12 +25,12 @@ These models can be used to transcribe audio, synthesize speech, or translate te
 They have extensive [tutorials](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/starthere/tutorials.html) that
 can be run on [Google Colab](https://colab.research.google.com).
 
-NVIDIA NeMo Github repositories
+NeMo Github repositories
 ------------
 https://github.com/NVIDIA/NeMo/tree/main
 
 License
--------
+------------
 All rights reserved. This work is the property of the NVIDIA NeMo Team.
 
 NeMo is released under an [Apache 2.0 license](https://github.com/NVIDIA/NeMo/blob/stable/LICENSE).
