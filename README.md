@@ -7,12 +7,8 @@ Key Features
 * Natural Language Processing
   * `Question answering <https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/question_answering.html>`_
 
-**NVIDIA NeMo**
-===============
-
-Introduction
+NeMo Introduction
 ------------
-
 NVIDIA NeMo is a conversational AI toolkit built for researchers working on automatic speech recognition (ASR),
 text-to-speech synthesis (TTS), large language models (LLMs), and
 natural language processing (NLP).
