@@ -5,6 +5,7 @@ This tutorial was adopted from the Nemo User Guide.
 Key Features
 ------------
 * Natural Language Processing: [Question answering](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/question_answering.html)
+* [Question Answering Tutorial](https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/nlp/Question_Answering.ipynb)
 
 NeMo Introduction
 ------------
