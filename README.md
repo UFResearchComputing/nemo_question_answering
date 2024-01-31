@@ -5,7 +5,7 @@ This tutorial was adopted from the Nemo User Guide.
 Key Features
 ------------
 * Natural Language Processing
-  * Question answering <https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/question_answering.html>
+  * [Question answering](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/question_answering.html)_
 
 NeMo Introduction
 ------------
@@ -17,12 +17,12 @@ and make it easier to create new [conversational AI models](https://developer.nv
 
 Getting started with NeMo
 ------------
-State of the Art pretrained NeMo models are freely available on `HuggingFace Hub <https://huggingface.co/models?library=nemo&sort=downloads&search=nvidia>`_ and
-`NVIDIA NGC <https://catalog.ngc.nvidia.com/models?query=nemo&orderBy=weightPopularDESC>`_.
+State of the Art pretrained NeMo models are freely available on [HuggingFace Hub](https://huggingface.co/models?library=nemo&sort=downloads&search=nvidia) and
+[NVIDIA NGC](https://catalog.ngc.nvidia.com/models?query=nemo&orderBy=weightPopularDESC)._
 These models can be used to transcribe audio, synthesize speech, or translate text in just a few lines of code.
 
-They have extensive `tutorials <https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/starthere/tutorials.html>`_ that
-can be run on `Google Colab <https://colab.research.google.com>`_.
+They have extensive [tutorials](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/starthere/tutorials.html) that
+can be run on [Google Colab](https://colab.research.google.com).
 
 NVIDIA NeMo Github repositories
 ------------
@@ -31,4 +31,4 @@ https://github.com/NVIDIA/NeMo/tree/main
 License
 -------
 All rights reserved. This work is the property of the NVIDIA NeMo Team._
-NeMo is released under an `Apache 2.0 license <https://github.com/NVIDIA/NeMo/blob/stable/LICENSE>`_.
+NeMo is released under an [Apache 2.0 license](https://github.com/NVIDIA/NeMo/blob/stable/LICENSE).
