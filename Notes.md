@@ -40,6 +40,11 @@ The choice between extractive and generative question-answering models depends o
 | Bart         | facebook/bart-base    | 12-layer, 768-hidden, 16-heads, 139M parameters    |
 | GPT-2        | gpt2                  | 12-layer, 768-hidden, 12-heads, 117M parameters. OpenAI GPT-2 English model |
 
+## 3. Parallel GPU Training
+
+When training large models, fitting larger batch sizes, or trying to increase throughput using multi-GPU compute, Lightning provides advanced optimized distributed training strategies to support these cases and offer substantial improvements in memory usage.
+
+More details can be find here: https://lightning.ai/docs/pytorch/1.6.5/advanced/model_parallel.html#choosing-an-advanced-distributed-gpu-strategy
 
 ### Sources:
 https://huggingface.co/transformers/v3.4.0/pretrained_models.html
